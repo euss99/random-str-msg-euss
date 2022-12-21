@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-euss",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euss99/random-str-msg-euss.git"
+  },
+  "keywords": [],
+  "author": "Uriel Solís <euss99@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/euss99/random-str-msg-euss/issues"
+  },
+  "homepage": "https://github.com/euss99/random-str-msg-euss#readme",
+  "bin": {
+    "random-str-msg-euss": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
